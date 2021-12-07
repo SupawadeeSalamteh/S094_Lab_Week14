@@ -23,3 +23,7 @@
 	url = https://github.com/SupawadeeSalamteh/plugin4.git
 	ignore = dirty
 
+[submodule "Plugin_Supawadee"]
+	path = Plugin_Supawadee
+	url = https://github.com/SupawadeeSalamteh/Plugin_Supawadee.git
+	ignore = dirty

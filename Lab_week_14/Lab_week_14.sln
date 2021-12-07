@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin3", "..\plugin3\Plugi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin4", "..\plugin4\Plugin4\Plugin4.csproj", "{904CD00C-4CDF-4913-A330-9F60A9EAAD41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginSupawadee", "..\Plugin_Supawadee\63030094\PluginSupawadee.csproj", "{56D09C2B-2FE1-4ED7-BCAE-09CDB5D2CE14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D09C2B-2FE1-4ED7-BCAE-09CDB5D2CE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D09C2B-2FE1-4ED7-BCAE-09CDB5D2CE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D09C2B-2FE1-4ED7-BCAE-09CDB5D2CE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D09C2B-2FE1-4ED7-BCAE-09CDB5D2CE14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
